@@ -1,0 +1,1 @@
+# How-to-set-scoop-and-run-allure-commandline
