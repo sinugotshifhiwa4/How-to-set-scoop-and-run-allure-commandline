@@ -1,4 +1,4 @@
-# How-to-set-scoop-and-run-allure-commandline
+# How-to-install-scoop-and-run-allure-commandline
 
 1. **Set the Execution Policy**:
    ```powershell
